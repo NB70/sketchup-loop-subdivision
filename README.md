@@ -2,7 +2,7 @@
 A  Loop subdivision plugin for Google Sketchup. Loop subdivision smooths hard edges to give a more rounded organic looking shape. 
 
 ##Installing
-Download the file below loop_subdiv.rb from http://www.guitar-list.com/download-software/sketchup-loop-subdivision-smooth-plugin and save it in your Google Sketchup plugins directory. 
+Download the file loop_subdiv.rb from http://www.guitar-list.com/download-software/sketchup-loop-subdivision-smooth-plugin and save it in your Google Sketchup plugins directory. 
     On Windows it will be somewhere like C:\Program Files\Google\Google Sketchup 7\Plugins.
     On Mac OSX. The sketchup plugins folder is /Library/Application Support/Google SketchUp 7/SketchUp/Plugins
 Re-start Sketchup, there should now be an extra option "Loop subdivide smooth" in the tools menu
