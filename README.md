@@ -1,5 +1,6 @@
 #sketchup-loop-subdivision
 A  Loop subdivision plugin for Google Sketchup. Loop subdivision smooths hard edges to give a more rounded organic looking shape. 
+![A wine glass model in Sketchup smoothed using this plugin](http://www.guitar-list.com/sites/default/files/styles/article-pic/public/gearpics/Smooth-glass.jpg)
 
 ##Installing
 Download the file loop_subdiv.rb from http://www.guitar-list.com/download-software/sketchup-loop-subdivision-smooth-plugin and save it in your Google Sketchup plugins directory. 
