@@ -19,5 +19,5 @@ The smoothed model is added to a new layer(called Loop_subdiv_XXXX). The origina
 For the technical details see the Hoppes and co-workers paper: Piecewise Smooth Surface Reconstruction . This paper also describes how to do partial subdivision, using crease edges and darts, which are not yet implemented in this plugin.
 
 ##Known issues
-There are known issues with non-manifold meshes where adjacent faces do not share edges (try smoothing a captial E), I am looking for solutions. Also when smoothing components the face materials are lost in the smoothed object.
+There are known issues with non-manifold meshes where adjacent faces do not share edges (try smoothing a capital E), I am looking for solutions. Also when smoothing components the face materials are lost in the smoothed object.
 
